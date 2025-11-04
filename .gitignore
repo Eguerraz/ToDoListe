@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environnement
+.env
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs / éditeurs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Build / dist
+dist/
+build/
